@@ -2,7 +2,8 @@ package studentlist;
 
 /**
  *
- * @author paulbonenfant
+ * @author CPlatinum
+*September 22nd 2003
  */
 public class Student {
 
