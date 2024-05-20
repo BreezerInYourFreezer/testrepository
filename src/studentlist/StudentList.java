@@ -28,6 +28,9 @@ public class StudentList {
         
         for (Student student: students) {
             System.out.printf(format, student.getName());            
-        }        
+        }   
+        
+         System.out.println("Obama Is A Mackdaddy");
     }
+   
 }
